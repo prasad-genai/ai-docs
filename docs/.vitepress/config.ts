@@ -7,6 +7,7 @@ import mlFoundationMr from '../ml-foundation/sidebar/mr'
 export default defineConfig({
   title: "Docs",
   description: "Automation & AI Documentation",
+  base: '/ai-docs/',
 
   // ✅ Language metadata ONLY
   locales: {
