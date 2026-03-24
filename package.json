@@ -4,8 +4,8 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
   },
   "devDependencies": {
     "vue": "3.2.44",
