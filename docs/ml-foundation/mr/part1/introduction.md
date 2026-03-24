@@ -24,4 +24,4 @@ title: परिचय
 
 Sidebar वापरून topics explore करा.
 
-👉 पुढे: [सेटअप](/mr/guide/setup)
+👉 पुढे: [सेटअप](/index.md)
