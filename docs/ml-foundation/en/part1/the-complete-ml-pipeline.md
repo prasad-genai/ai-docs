@@ -123,7 +123,3 @@ Now that you understand how an ML system works end-to-end, the next step is to g
 
 ---
 
-Take time to understand this pipeline clearly.
-You will use this structure in every ML project you build.
-
----

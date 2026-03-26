@@ -232,8 +232,3 @@ In the next chapter, we will explore:
 * ML is powerful when problems are too complex for manual rules
 
 ---
-
-Take your time with this chapter.
-Clarity here will make everything ahead much easier.
-
----

@@ -252,7 +252,3 @@ Next, we will explore:
 
 ---
 
-Take time to understand each type clearly.
-This foundation will support everything ahead.
-
----
